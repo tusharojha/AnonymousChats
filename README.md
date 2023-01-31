@@ -1,7 +1,7 @@
 # Anonymous Chats
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/tusharojha/AnonymousChats)  &nbsp;&nbsp;
 
-Anonymous chat room, where no history will ever be created of your conversations.
+Anonymous chat room, where no history will ever be created of your conversations. You can chat realtime with friends for free :)
 
 Developed using Node.JS and Socket.io.
 
