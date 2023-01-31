@@ -19,7 +19,4 @@ Enter any handle name in the name field and then start chatting!
 
 => Simple & Clean design
 
-## Try it now
-http://tusharchatapp.herokuapp.com/
-
 ### Developed by Tushar Ojha
