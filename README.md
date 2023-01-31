@@ -3,7 +3,7 @@
 
 Anonymous chat room, where no history will ever be created of your conversations.
 
-Developed in Node.JS using socket.io.
+Developed using Node.JS and Socket.io.
 
 ## Installing
 Clone the reposistory and use 'npm install' in cloned directory.
