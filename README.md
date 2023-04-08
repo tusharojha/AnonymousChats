@@ -20,3 +20,5 @@ Enter any handle name in the name field and then start chatting!
 => Simple & Clean design
 
 ### Developed by Tushar Ojha
+
+Backup using Sadaiv CI.
